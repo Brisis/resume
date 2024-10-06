@@ -79,6 +79,9 @@ Experienced software developer with over 5 years of expertise in full-stack web 
 - Built a complete e-commerce platform with PHP Laravel Framework.
 - Integrated Stripe for payment processing and set up user roles and permissions for admins and customers.
 
+<div style="page-break-after: always"></div>
+
+
 ### **Peer Package Delivery System**  
 *Final Year Project*  
 - Built a small blockchain network from scratch for a web based system in Python, that utilised Smart Contracts and Digital Wallets for a smooth and secure peer package delivery
