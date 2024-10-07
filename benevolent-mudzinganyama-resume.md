@@ -18,7 +18,7 @@ Experienced software developer with over 5 years of expertise in full-stack web 
 
 - **Languages:** JavaScript, Dart (Flutter), Java, Kotlin, C#, TypeScript, SQL  
 - **Web Technologies:** React, Angular, Node.js, NestJS, Flask, HTML5, CSS3, SASS  
-- **Databases:** MySQL, PostgreSQL, MongoDB, SQLite  
+- **Databases:** MySQL, PostgreSQL, MongoDB, SQLite, Cassandra, Firebase 
 - **Version Control:** Git, GitHub, GitLab  
 - **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD (Jenkins, Travis CI)  
 - **Other Tools:** Jira, Figma, VS Code, Android Studio, IntelliJ, Postman  
